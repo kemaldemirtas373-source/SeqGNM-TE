@@ -1,1 +1,1 @@
-# SeqGNM-TE
+Coevolution data should be given as an input at a separate .xlsx file. The file should contain residue indices at first two columns. The third column should contain evolutionary coupling scores. The fourth column should contain coevolution probabilities.
